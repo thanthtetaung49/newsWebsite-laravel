@@ -1,0 +1,14 @@
+.admin-dashboard {
+    height: 100vh;
+}
+
+.nav-link:hover {
+    color: #fff;
+    background-color: #c9b6b6;
+}
+
+@keyframes sidebar-animation {
+    to {
+        transform: translateX(0%);
+    }
+}
